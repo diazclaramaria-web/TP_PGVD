@@ -1,0 +1,6 @@
+.env
+GenerateTPData.ipynb
+GenerateTPData.ipynbZone.Identifier
+GenerateTPData.nbconvert.ipynb
+data
+dag_tp.py
